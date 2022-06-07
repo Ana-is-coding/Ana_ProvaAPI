@@ -1,0 +1,11 @@
+(1)POST             /ANIME/NOME
+
+request body
+{
+    "Nome": " "
+}
+response (100)
+{
+    "id" = 0,
+    "nome" = kakegurui
+}
